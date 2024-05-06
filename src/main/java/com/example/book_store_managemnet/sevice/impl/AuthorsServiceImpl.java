@@ -25,13 +25,16 @@ public class AuthorsServiceImpl implements AuthorsService {
 
     @Override
     public List<Authors> getAuthors() {
+
         return authorsRepository.findAll();
     }
 
 //    @Override
-//    public void updateAuthors(Integer author_Id, Authors authors) {
+//    public void update(Integer author_Id, Authors authors) {
 //        authorsRepository
 //                .findById(author_Id)
 //                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND."Invalid Author_Id" + author_Id));
+//        authors.setId(author_id);
+//        authorsRepository.save(authors);
 //    }
 }
