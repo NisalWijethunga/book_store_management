@@ -5,19 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c8155e-98b0-443d-915d-90ab050ef46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/BookDetailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/BooksAuthorsCategoriesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/CategoriesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/impl/BookDetailServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/impl/BooksAuthorsCategoriesServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/impl/CategoriesServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/dto/RegistrationDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/impl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/controller/BookAuthorCategoriesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/controller/BooksAuthorsCategoriesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/controller/BookDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/controller/BookDetailController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/controller/CategoriesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/controller/CategoriesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/Authors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/Authors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/BookAuthorsCategories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/BookAuthorsCategories.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/BookDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/BookDetail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/Categories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/Categories.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/impl/AuthorsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/impl/AuthorsServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -44,6 +46,9 @@
         <option name="mavenHome" value="Use Maven wrapper" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -66,7 +71,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/EXE/spring-crud&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DEA II Final/E-commerce-application/E-commerce/e-commerce-backend&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -78,6 +83,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.book_store_managemnet.dto" />
       <recent name="com.example.book_store_managemnet.entity" />
     </key>
   </component>
@@ -102,11 +108,22 @@
       <workItem from="1714625591924" duration="401000" />
       <workItem from="1714728825544" duration="5039000" />
       <workItem from="1714742820279" duration="7003000" />
-      <workItem from="1714967142804" duration="434000" />
+      <workItem from="1714967142804" duration="8564000" />
+      <workItem from="1715052664496" duration="8798000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

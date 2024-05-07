@@ -11,6 +11,7 @@ import lombok.Setter;
 @Entity
 @NoArgsConstructor
 @AllArgsConstructor
+@Table
 
 public class Authors {
     @Id
