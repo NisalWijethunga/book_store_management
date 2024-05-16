@@ -26,6 +26,7 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
+    //Takes RegistrationDto object as input
     public void saveUser(RegistrationDto registrationDto) {
         User user = new User();
         user.setUsername(registrationDto.getUsername());

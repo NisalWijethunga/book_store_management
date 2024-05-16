@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c8155e-98b0-443d-915d-90ab050ef46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/dto/RegistrationDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/repository/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/impl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/Authors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/Authors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/BookAuthorsCategories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/BookAuthorsCategories.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/BookDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/BookDetail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/Categories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/entity/Categories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/book_store_managemnet/sevice/impl/UserServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +97,8 @@
       <workItem from="1714728825544" duration="5039000" />
       <workItem from="1714742820279" duration="7003000" />
       <workItem from="1714967142804" duration="8564000" />
-      <workItem from="1715052664496" duration="8798000" />
+      <workItem from="1715052664496" duration="12967000" />
+      <workItem from="1715571435336" duration="615000" />
     </task>
     <servers />
   </component>
